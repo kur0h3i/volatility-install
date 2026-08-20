@@ -21,5 +21,3 @@ source ~/.zshrc
 vol2 -f memoria.mem --profile=Win7SP1x64 pslist
 vol3 -f memoria.mem windows.pslist
 ```
-
-```
